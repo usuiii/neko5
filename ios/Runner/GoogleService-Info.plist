@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>719208232714-cmg2qcqrv2df0q1mujh4i535ihbdasbf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.719208232714-cmg2qcqrv2df0q1mujh4i535ihbdasbf</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8WXKKCSaJkb0a8Fuus2GN7eKldHTtRwM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>719208232714</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.usuiii.neko5.neko5</string>
+	<key>PROJECT_ID</key>
+	<string>neko5-online</string>
+	<key>STORAGE_BUCKET</key>
+	<string>neko5-online.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:719208232714:ios:f3488c3d255bee4db82cf3</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "719208232714",
+    "project_id": "neko5-online",
+    "storage_bucket": "neko5-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719208232714:android:e8a4fea7d06830c7b82cf3",
+        "android_client_info": {
+          "package_name": "com.usuiii.neko5.neko5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719208232714-7jinsm80tkah36or4o9avps3l3pa54nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapIZXp-EUAX9eAnSsW41mjJBrTWrC8RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719208232714-7jinsm80tkah36or4o9avps3l3pa54nj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719208232714-cmg2qcqrv2df0q1mujh4i535ihbdasbf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.usuiii.neko5.neko5"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
